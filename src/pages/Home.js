@@ -3,7 +3,7 @@ const  Home = () => {
     <div className="character">
         <article className="character_item">
             <a href="#/1/">
-            <img src="image" alt="name"/>
+            <img src="" alt="name"/>
             <h2>Name</h2>
             </a>
         </article>
